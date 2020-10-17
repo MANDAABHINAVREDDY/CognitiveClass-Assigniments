@@ -1,1 +1,1 @@
-# CognitiveClass-Assigniments
+# CognitiveClass-Assigniment
